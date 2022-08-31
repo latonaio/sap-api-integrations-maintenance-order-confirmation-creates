@@ -5,7 +5,7 @@ import (
 	sap_api_input_reader "sap-api-integrations-maintenance-order-confirmation-creates/SAP_API_Input_Reader"
 	"sap-api-integrations-maintenance-order-confirmation-creates/config"
 
-	"github.com/latonaio/golang-logging-library/logger"
+	"github.com/latonaio/golang-logging-library-for-sap/logger"
 	sap_api_post_header_setup "github.com/latonaio/sap-api-post-header-setup"
 )
 
